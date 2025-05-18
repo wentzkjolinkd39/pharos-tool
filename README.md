@@ -1,4 +1,4 @@
-# Pharos_Bot 🌅 Pharos Bot [v1.9.0]
+# Pharos_Bot 🌅 Pharos Bot [v1.0.9]
 
 ![Demo](https://i.imgur.com/uW631d1.jpeg)
 
@@ -30,12 +30,17 @@ No payments, no hidden fees — just download and start automating.
 
 ## 🧩 Modules
 
-- Register accounts
-- Verify accounts
-- Login accounts  
-- Farm accounts
-- Export accounts statistics  
-- Clean accounts proxies
+
+-🚀 Multi-account farming
+
+-🧠 Smart session & fingerprint spoofing
+
+-🔄 Proxy & wallet rotation
+
+-💰 Cheap, fast, and highly efficient
+
+-🪂 Optimized for the Binance Points Airdrop system
+
 
 ---
 
