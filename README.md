@@ -39,7 +39,7 @@ No payments, no hidden fees — just download and start automating.
 
 -💰 Cheap, fast, and highly efficient
 
--🪂 Optimized for the Binance Points Airdrop system
+-🪂 Optimized for the Airdrop system
 
 
 ---
